@@ -24,4 +24,6 @@
 
    
 
-6. 
+6. ``` String 转 int  :  int a  =   Integer.valueOf(s) ```
+
+7. 
